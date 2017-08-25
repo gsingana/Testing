@@ -9,7 +9,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.locks.LockSupport;
 
 /**
- * @author Andrey Pavlenko
+ * @author Andrey Pavlenko //
  */
 public class Logger {
     private final PrintWriter _logWriter;
