@@ -1,4 +1,4 @@
-package com.aap.gitst;
+package com.aap.gitst
 
 import static com.aap.gitst.RepoProperties.PROP_CA;
 import static com.aap.gitst.RepoProperties.PROP_CATHREADS;
